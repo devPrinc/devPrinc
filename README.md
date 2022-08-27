@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/devPrinc/devPrinc/master/name.svg" alt="Leonardo Monteiro" />
-</h1>
-
 # Hi 👋 and welcome to my profile 
 
 Here are some ideas to get you started:
