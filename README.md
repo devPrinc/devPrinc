@@ -13,9 +13,6 @@
 	<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor%23ffffff"/>
 	<img alt="Windows" src="https://img.shields.io/badge/-Windows-00A4EF?style=for-the-badge&logo=windows&logoColor=23ffffff"/>
 	<br>
-  <a href="https://github.com/devPrinc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devPrinc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devPrinc&layout=compact&langs_count=7&theme=dracula"/>
   <br>
 	  
 </h1>
