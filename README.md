@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-👨🏻‍💻 I’m currently working at hywer.net (https://discord.gg/XsHQE8HTFb)
+👨🏻‍💻 I’m currently working at minecraft servers.
 <br/>
 🌱 I’m currently learning Java
 <br/>
