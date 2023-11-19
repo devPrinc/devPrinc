@@ -2,11 +2,11 @@
 
 Here are some ideas to get you started:
 
-👨🏻‍💻 I’m currently working at minecraft servers.
+👨🏻‍💻 I’m currently working at Minecraft projects and some FiveM projects to.
 <br/>
 🌱 I’m currently learning Java
 <br/>
-📫 How to contact me: P R I N C#0689
+📫 How to contact me: fkprinc
 <br/>
 
 ## Languages and features that I'm currently learning and have already learned
